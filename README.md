@@ -1,5 +1,5 @@
 # DL-Cifar-10
-tune from lenet model to actual 90% accuracy is call Jonnet now
+Tune from lenet model get up to 90% accuracy. This is call Jonnet now
 
 #Convolutional Neural Networks for CIFAR-10
 This repository is about some implementations of CNN Architecture for cifar10.
